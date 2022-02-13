@@ -76,6 +76,7 @@ namespace SinemaOtomasyonu
             this.btn_chair02.Size = new System.Drawing.Size(74, 71);
             this.btn_chair02.TabIndex = 1;
             this.btn_chair02.UseVisualStyleBackColor = false;
+            this.btn_chair02.Click += new System.EventHandler(this.btn_chair02_Click);
             // 
             // btn_chair03
             // 
@@ -88,6 +89,7 @@ namespace SinemaOtomasyonu
             this.btn_chair03.Size = new System.Drawing.Size(74, 71);
             this.btn_chair03.TabIndex = 2;
             this.btn_chair03.UseVisualStyleBackColor = false;
+            this.btn_chair03.Click += new System.EventHandler(this.btn_chair03_Click);
             // 
             // btn_chair04
             // 
@@ -100,6 +102,7 @@ namespace SinemaOtomasyonu
             this.btn_chair04.Size = new System.Drawing.Size(74, 71);
             this.btn_chair04.TabIndex = 3;
             this.btn_chair04.UseVisualStyleBackColor = false;
+            this.btn_chair04.Click += new System.EventHandler(this.btn_chair04_Click);
             // 
             // btn_chair05
             // 
@@ -112,6 +115,7 @@ namespace SinemaOtomasyonu
             this.btn_chair05.Size = new System.Drawing.Size(74, 71);
             this.btn_chair05.TabIndex = 4;
             this.btn_chair05.UseVisualStyleBackColor = false;
+            this.btn_chair05.Click += new System.EventHandler(this.btn_chair05_Click);
             // 
             // btn_chair10
             // 
@@ -124,6 +128,7 @@ namespace SinemaOtomasyonu
             this.btn_chair10.Size = new System.Drawing.Size(74, 71);
             this.btn_chair10.TabIndex = 9;
             this.btn_chair10.UseVisualStyleBackColor = false;
+            this.btn_chair10.Click += new System.EventHandler(this.btn_chair10_Click);
             // 
             // btn_chair09
             // 
@@ -136,6 +141,7 @@ namespace SinemaOtomasyonu
             this.btn_chair09.Size = new System.Drawing.Size(74, 71);
             this.btn_chair09.TabIndex = 8;
             this.btn_chair09.UseVisualStyleBackColor = false;
+            this.btn_chair09.Click += new System.EventHandler(this.btn_chair09_Click);
             // 
             // btn_chair08
             // 
@@ -148,6 +154,7 @@ namespace SinemaOtomasyonu
             this.btn_chair08.Size = new System.Drawing.Size(74, 71);
             this.btn_chair08.TabIndex = 7;
             this.btn_chair08.UseVisualStyleBackColor = false;
+            this.btn_chair08.Click += new System.EventHandler(this.btn_chair08_Click);
             // 
             // btn_chair07
             // 
@@ -160,6 +167,7 @@ namespace SinemaOtomasyonu
             this.btn_chair07.Size = new System.Drawing.Size(74, 71);
             this.btn_chair07.TabIndex = 6;
             this.btn_chair07.UseVisualStyleBackColor = false;
+            this.btn_chair07.Click += new System.EventHandler(this.btn_chair07_Click);
             // 
             // btn_chair06
             // 
@@ -172,6 +180,7 @@ namespace SinemaOtomasyonu
             this.btn_chair06.Size = new System.Drawing.Size(74, 71);
             this.btn_chair06.TabIndex = 5;
             this.btn_chair06.UseVisualStyleBackColor = false;
+            this.btn_chair06.Click += new System.EventHandler(this.btn_chair06_Click);
             // 
             // btn_chair15
             // 
@@ -184,6 +193,7 @@ namespace SinemaOtomasyonu
             this.btn_chair15.Size = new System.Drawing.Size(74, 71);
             this.btn_chair15.TabIndex = 14;
             this.btn_chair15.UseVisualStyleBackColor = false;
+            this.btn_chair15.Click += new System.EventHandler(this.btn_chair15_Click);
             // 
             // btn_chair14
             // 
@@ -196,6 +206,7 @@ namespace SinemaOtomasyonu
             this.btn_chair14.Size = new System.Drawing.Size(74, 71);
             this.btn_chair14.TabIndex = 13;
             this.btn_chair14.UseVisualStyleBackColor = false;
+            this.btn_chair14.Click += new System.EventHandler(this.btn_chair14_Click);
             // 
             // btn_chair13
             // 
@@ -208,6 +219,7 @@ namespace SinemaOtomasyonu
             this.btn_chair13.Size = new System.Drawing.Size(74, 71);
             this.btn_chair13.TabIndex = 12;
             this.btn_chair13.UseVisualStyleBackColor = false;
+            this.btn_chair13.Click += new System.EventHandler(this.btn_chair13_Click);
             // 
             // btn_chair12
             // 
@@ -220,6 +232,7 @@ namespace SinemaOtomasyonu
             this.btn_chair12.Size = new System.Drawing.Size(74, 71);
             this.btn_chair12.TabIndex = 11;
             this.btn_chair12.UseVisualStyleBackColor = false;
+            this.btn_chair12.Click += new System.EventHandler(this.btn_chair12_Click);
             // 
             // btn_chair11
             // 
@@ -232,6 +245,7 @@ namespace SinemaOtomasyonu
             this.btn_chair11.Size = new System.Drawing.Size(74, 71);
             this.btn_chair11.TabIndex = 10;
             this.btn_chair11.UseVisualStyleBackColor = false;
+            this.btn_chair11.Click += new System.EventHandler(this.btn_chair11_Click);
             // 
             // btn_chair20
             // 
@@ -244,6 +258,7 @@ namespace SinemaOtomasyonu
             this.btn_chair20.Size = new System.Drawing.Size(74, 71);
             this.btn_chair20.TabIndex = 19;
             this.btn_chair20.UseVisualStyleBackColor = false;
+            this.btn_chair20.Click += new System.EventHandler(this.btn_chair20_Click);
             // 
             // btn_chair19
             // 
@@ -256,6 +271,7 @@ namespace SinemaOtomasyonu
             this.btn_chair19.Size = new System.Drawing.Size(74, 71);
             this.btn_chair19.TabIndex = 18;
             this.btn_chair19.UseVisualStyleBackColor = false;
+            this.btn_chair19.Click += new System.EventHandler(this.btn_chair19_Click);
             // 
             // btn_chair18
             // 
@@ -268,6 +284,7 @@ namespace SinemaOtomasyonu
             this.btn_chair18.Size = new System.Drawing.Size(74, 71);
             this.btn_chair18.TabIndex = 17;
             this.btn_chair18.UseVisualStyleBackColor = false;
+            this.btn_chair18.Click += new System.EventHandler(this.btn_chair18_Click);
             // 
             // btn_chair17
             // 
@@ -280,6 +297,7 @@ namespace SinemaOtomasyonu
             this.btn_chair17.Size = new System.Drawing.Size(74, 71);
             this.btn_chair17.TabIndex = 16;
             this.btn_chair17.UseVisualStyleBackColor = false;
+            this.btn_chair17.Click += new System.EventHandler(this.btn_chair17_Click);
             // 
             // btn_chair16
             // 
@@ -292,6 +310,7 @@ namespace SinemaOtomasyonu
             this.btn_chair16.Size = new System.Drawing.Size(74, 71);
             this.btn_chair16.TabIndex = 15;
             this.btn_chair16.UseVisualStyleBackColor = false;
+            this.btn_chair16.Click += new System.EventHandler(this.btn_chair16_Click);
             // 
             // Form1
             // 
