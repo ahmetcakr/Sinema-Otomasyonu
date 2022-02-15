@@ -40,25 +40,27 @@ namespace SinemaOtomasyonu
         int chair19 = 0;
         int chair20 = 0;
 
-        private void btn_chair01_Click(object sender, EventArgs e)
+
+        private void btn_chair01_Click_1(object sender, EventArgs e)
         {
-           
-            if (chair01 == 0)
-            {
-                 btn_chair01.BackgroundImage = System.Drawing.Image.FromFile(@"C:\Users\ahmet\source\repos\SinemaOtomasyonu\Sinema-Otomasyonu\images\redchair.png");
-                 chair01 = 1;
-            } 
 
-            else if (chair01==1)
-            { 
-                btn_chair01.BackgroundImage = System.Drawing.Image.FromFile(@"C:\Users\ahmet\source\repos\SinemaOtomasyonu\Sinema-Otomasyonu\images\greenchair.png");
-                chair01 = 0;
-            }
+                if (chair01 == 0)
+                {
+                    btn_chair01.BackgroundImage = System.Drawing.Image.FromFile(@"C:\Users\ahmet\source\repos\SinemaOtomasyonu\Sinema-Otomasyonu\images\redchair.png");
+                    chair01 = 1;
+                }
 
+                else if (chair01 == 1)
+                {
+                    btn_chair01.BackgroundImage = System.Drawing.Image.FromFile(@"C:\Users\ahmet\source\repos\SinemaOtomasyonu\Sinema-Otomasyonu\images\greenchair.png");
+                    chair01 = 0;
+                }
+            
         }
 
-        private void btn_chair02_Click(object sender, EventArgs e)
+        private void btn_chair02_Click_1(object sender, EventArgs e)
         {
+
             if (chair02 == 0)
             {
                 btn_chair02.BackgroundImage = System.Drawing.Image.FromFile(@"C:\Users\ahmet\source\repos\SinemaOtomasyonu\Sinema-Otomasyonu\images\redchair.png");
@@ -72,7 +74,7 @@ namespace SinemaOtomasyonu
             }
         }
 
-        private void btn_chair03_Click(object sender, EventArgs e)
+        private void btn_chair03_Click_1(object sender, EventArgs e)
         {
             if (chair03 == 0)
             {
@@ -87,7 +89,7 @@ namespace SinemaOtomasyonu
             }
         }
 
-        private void btn_chair04_Click(object sender, EventArgs e)
+        private void btn_chair04_Click_1(object sender, EventArgs e)
         {
             if (chair04 == 0)
             {
@@ -102,7 +104,7 @@ namespace SinemaOtomasyonu
             }
         }
 
-        private void btn_chair05_Click(object sender, EventArgs e)
+        private void btn_chair05_Click_1(object sender, EventArgs e)
         {
             if (chair05 == 0)
             {
@@ -117,7 +119,7 @@ namespace SinemaOtomasyonu
             }
         }
 
-        private void btn_chair06_Click(object sender, EventArgs e)
+        private void btn_chair06_Click_1(object sender, EventArgs e)
         {
             if (chair06 == 0)
             {
@@ -132,7 +134,7 @@ namespace SinemaOtomasyonu
             }
         }
 
-        private void btn_chair07_Click(object sender, EventArgs e)
+        private void btn_chair07_Click_1(object sender, EventArgs e)
         {
             if (chair07 == 0)
             {
@@ -147,8 +149,9 @@ namespace SinemaOtomasyonu
             }
         }
 
-        private void btn_chair08_Click(object sender, EventArgs e)
+        private void btn_chair08_Click_1(object sender, EventArgs e)
         {
+
             if (chair08 == 0)
             {
                 btn_chair08.BackgroundImage = System.Drawing.Image.FromFile(@"C:\Users\ahmet\source\repos\SinemaOtomasyonu\Sinema-Otomasyonu\images\redchair.png");
@@ -162,7 +165,7 @@ namespace SinemaOtomasyonu
             }
         }
 
-        private void btn_chair09_Click(object sender, EventArgs e)
+        private void btn_chair09_Click_1(object sender, EventArgs e)
         {
             if (chair09 == 0)
             {
@@ -177,7 +180,7 @@ namespace SinemaOtomasyonu
             }
         }
 
-        private void btn_chair10_Click(object sender, EventArgs e)
+        private void btn_chair10_Click_1(object sender, EventArgs e)
         {
             if (chair10 == 0)
             {
@@ -192,7 +195,7 @@ namespace SinemaOtomasyonu
             }
         }
 
-        private void btn_chair11_Click(object sender, EventArgs e)
+        private void btn_chair11_Click_1(object sender, EventArgs e)
         {
             if (chair11 == 0)
             {
@@ -207,7 +210,7 @@ namespace SinemaOtomasyonu
             }
         }
 
-        private void btn_chair12_Click(object sender, EventArgs e)
+        private void btn_chair12_Click_1(object sender, EventArgs e)
         {
             if (chair12 == 0)
             {
@@ -222,7 +225,7 @@ namespace SinemaOtomasyonu
             }
         }
 
-        private void btn_chair13_Click(object sender, EventArgs e)
+        private void btn_chair13_Click_1(object sender, EventArgs e)
         {
             if (chair13 == 0)
             {
@@ -237,7 +240,7 @@ namespace SinemaOtomasyonu
             }
         }
 
-        private void btn_chair14_Click(object sender, EventArgs e)
+        private void btn_chair14_Click_1(object sender, EventArgs e)
         {
             if (chair14 == 0)
             {
@@ -252,7 +255,7 @@ namespace SinemaOtomasyonu
             }
         }
 
-        private void btn_chair15_Click(object sender, EventArgs e)
+        private void btn_chair15_Click_1(object sender, EventArgs e)
         {
             if (chair15 == 0)
             {
@@ -267,7 +270,7 @@ namespace SinemaOtomasyonu
             }
         }
 
-        private void btn_chair16_Click(object sender, EventArgs e)
+        private void btn_chair16_Click_1(object sender, EventArgs e)
         {
             if (chair16 == 0)
             {
@@ -282,7 +285,7 @@ namespace SinemaOtomasyonu
             }
         }
 
-        private void btn_chair17_Click(object sender, EventArgs e)
+        private void btn_chair17_Click_1(object sender, EventArgs e)
         {
             if (chair17 == 0)
             {
@@ -297,7 +300,7 @@ namespace SinemaOtomasyonu
             }
         }
 
-        private void btn_chair18_Click(object sender, EventArgs e)
+        private void btn_chair18_Click_1(object sender, EventArgs e)
         {
             if (chair18 == 0)
             {
@@ -312,7 +315,7 @@ namespace SinemaOtomasyonu
             }
         }
 
-        private void btn_chair19_Click(object sender, EventArgs e)
+        private void btn_chair19_Click_1(object sender, EventArgs e)
         {
             if (chair19 == 0)
             {
@@ -327,7 +330,7 @@ namespace SinemaOtomasyonu
             }
         }
 
-        private void btn_chair20_Click(object sender, EventArgs e)
+        private void btn_chair20_Click_1(object sender, EventArgs e)
         {
             if (chair20 == 0)
             {
